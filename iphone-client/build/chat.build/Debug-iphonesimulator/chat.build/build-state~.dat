@@ -1,0 +1,258 @@
+Tchat
+v7
+r0
+t277427116.014926
+cCheck dependencies
+cProcessInfoPlistFile /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/Info.plist chat-Info.plist
+cCompileXIB /Users/siong1987/Documents/chat/MainWindow.xib
+cCompileXIB /Users/siong1987/Documents/chat/chatViewController.xib
+cProcessPCH /var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch.gch chat_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/main.o /Users/siong1987/Documents/chat/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatAppDelegate.o /Users/siong1987/Documents/chat/Classes/chatAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatViewController.o /Users/siong1987/Documents/chat/Classes/chatViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat normal i386
+cGenerateDSYMFile /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app.dSYM /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat
+cTouch /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AD8E44D00000000000000EE
+t1255728205
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/siong1987/Documents/chat/Classes/chatAppDelegate.h
+c000000004AD8FBBE00000000000001CB
+t1255734206
+s459
+i<UIKit/UIKit.h>
+
+N/Users/siong1987/Documents/chat/Classes/chatAppDelegate.m
+c000000004AD8FBBE0000000000000259
+t1255734206
+s601
+i"chatAppDelegate.h"
+i"chatViewController.h"
+
+N/Users/siong1987/Documents/chat/Classes/chatViewController.h
+c000000004AD8FBBE00000000000000E3
+t1255734206
+s227
+i<UIKit/UIKit.h>
+
+N/Users/siong1987/Documents/chat/Classes/chatViewController.m
+c000000004AD8FBBE00000000000005A9
+t1255734206
+s1449
+i"chatViewController.h"
+
+N/Users/siong1987/Documents/chat/MainWindow.xib
+c000000004AD8FBBE000000000000242D
+t1255734206
+s9261
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app
+t1255734316
+s238
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app.dSYM
+t1255734315
+s102
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/Info.plist
+t1255734314
+s552
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/MainWindow.nib
+t1255734314
+s1489
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/PkgInfo
+t1255734314
+s8
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat
+t1255734315
+s19252
+
+N/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chatViewController.nib
+t1255734314
+s2321
+
+N/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chat.LinkFileList
+c000000004AD8FC2A0000000000000160
+t1255734314
+s352
+
+N/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatAppDelegate.o
+t1255734315
+s37980
+
+N/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatViewController.o
+t1255734315
+s29896
+
+N/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/main.o
+t1255734315
+s5944
+
+N/Users/siong1987/Documents/chat/chatViewController.xib
+c000000004AD8FC280000000000004486
+t1255734312
+s17542
+
+N/Users/siong1987/Documents/chat/chat_Prefix.pch
+c000000004AD8FBBE00000000000000B1
+t1255734206
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/siong1987/Documents/chat/main.m
+c000000004AD8FBBE0000000000000164
+t1255734206
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch.gch
+t1255734315
+s13034960
+
+Nchat-Info.plist
+c000000004AD8FBBE000000000000038D
+t1255734206
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277427114#277427114#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatAppDelegate.o /Users/siong1987/Documents/chat/Classes/chatAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277427115.600142
+e277427115.691213
+r1
+xCompileC
+xbuild/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatAppDelegate.o
+x/Users/siong1987/Documents/chat/Classes/chatAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/siong1987/Documents/chat/Classes/chatAppDelegate.m277427115#277427115#0(0"0(0#0#57"/Users/siong1987/Documents/chat/Classes/chatAppDelegate.m4300885448#1814"    cd /Users/siong1987/Documents/chat    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-generated-files.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-own-target-headers.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-all-target-headers.hmap -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-project-headers.hmap -F/Users/siong1987/Documents/chat/build/Debug-iphonesimulator -I/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/include -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources/i386 -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources -include /var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch -c /Users/siong1987/Documents/chat/Classes/chatAppDelegate.m -o /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatAppDelegate.o0#
+
+CCompileC build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatViewController.o /Users/siong1987/Documents/chat/Classes/chatViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277427115.685091
+e277427115.738758
+r1
+xCompileC
+xbuild/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatViewController.o
+x/Users/siong1987/Documents/chat/Classes/chatViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/siong1987/Documents/chat/Classes/chatViewController.m277427115#277427115#0(0"0(0#0#60"/Users/siong1987/Documents/chat/Classes/chatViewController.m4300885448#1820"    cd /Users/siong1987/Documents/chat    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-generated-files.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-own-target-headers.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-all-target-headers.hmap -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-project-headers.hmap -F/Users/siong1987/Documents/chat/build/Debug-iphonesimulator -I/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/include -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources/i386 -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources -include /var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch -c /Users/siong1987/Documents/chat/Classes/chatViewController.m -o /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chatViewController.o0#
+
+CCompileC build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/main.o /Users/siong1987/Documents/chat/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277427115.599225
+e277427115.685003
+r1
+xCompileC
+xbuild/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/main.o
+x/Users/siong1987/Documents/chat/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/siong1987/Documents/chat/main.m277427115#277427115#0(0"0(0#0#38"/Users/siong1987/Documents/chat/main.m4300885448#1784"    cd /Users/siong1987/Documents/chat    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-generated-files.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-own-target-headers.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-all-target-headers.hmap -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-project-headers.hmap -F/Users/siong1987/Documents/chat/build/Debug-iphonesimulator -I/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/include -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources/i386 -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources -include /var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch -c /Users/siong1987/Documents/chat/main.m -o /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/siong1987/Documents/chat/MainWindow.xib
+s277427114.568915
+e277427114.866729
+r1
+xCompileXIB
+x/Users/siong1987/Documents/chat/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib277427114#277427114#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#46"/Users/siong1987/Documents/chat/MainWindow.xib4300885448#520"    cd /Users/siong1987/Documents/chat    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/MainWindow.nib /Users/siong1987/Documents/chat/MainWindow.xib0#
+
+CCompileXIB /Users/siong1987/Documents/chat/chatViewController.xib
+s277427114.575327
+e277427114.924459
+r1
+xCompileXIB
+x/Users/siong1987/Documents/chat/chatViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB chatViewController.xib277427114#277427114#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#54"/Users/siong1987/Documents/chat/chatViewController.xib4300885448#536"    cd /Users/siong1987/Documents/chat    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chatViewController.nib /Users/siong1987/Documents/chat/chatViewController.xib0#
+
+CGenerateDSYMFile /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app.dSYM /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat
+s277427115.967675
+e277427116.001155
+r1
+xGenerateDSYMFile
+x/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app.dSYM
+x/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/chat.app.dSYM build/Debug-iphonesimulator/chat.app/chat277427115#277427116#0(0"0(0#0#73"/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat4300885448#415"    cd /Users/siong1987/Documents/chat    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat -o /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app.dSYM0#
+
+CLd /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat normal i386
+s277427115.738855
+e277427115.967590
+r1
+xLd
+x/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat
+xnormal
+xi386
+lSLF07#2@78"Link /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat277427115#277427115#0(0"0(0#0#0"4300885448#876"    cd /Users/siong1987/Documents/chat    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/siong1987/Documents/chat/build/Debug-iphonesimulator -F/Users/siong1987/Documents/chat/build/Debug-iphonesimulator -filelist /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/Objects-normal/i386/chat.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/chat0#
+
+CProcessInfoPlistFile /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/Info.plist chat-Info.plist
+s277427114.553211
+e277427114.568832
+r1
+xProcessInfoPlistFile
+x/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/Info.plist
+xchat-Info.plist
+lSLF07#2@23"Process chat-Info.plist277427114#277427114#0(0"0(0#0#47"/Users/siong1987/Documents/chat/chat-Info.plist32370056120631408#511"    cd /Users/siong1987/Documents/chat    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility chat-Info.plist -genpkginfo /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app/Info.plist0#
+
+CProcessPCH /var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch.gch chat_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277427114.924603
+e277427115.599108
+r1
+xProcessPCH
+x/var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch.gch
+xchat_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile chat_Prefix.pch277427114#277427115#0(0"0(0#0#47"/Users/siong1987/Documents/chat/chat_Prefix.pch4300885448#1686"    cd /Users/siong1987/Documents/chat    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-generated-files.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-own-target-headers.hmap -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-all-target-headers.hmap -iquote /Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/chat-project-headers.hmap -F/Users/siong1987/Documents/chat/build/Debug-iphonesimulator -I/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/include -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources/i386 -I/Users/siong1987/Documents/chat/build/chat.build/Debug-iphonesimulator/chat.build/DerivedSources -c /Users/siong1987/Documents/chat/chat_Prefix.pch -o /var/folders/Ky/KyZYDvXFGhunGkblLhWFpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/chat_Prefix-bnkdeyvunshekpberrxadfftdvco/chat_Prefix.pch.gch0#
+
+CTouch /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app
+s277427116.001234
+e277427116.014739
+r1
+xTouch
+x/Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app
+lSLF07#2@74"Touch /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app277427116#277427116#0(0"0(0#0#0"4300885448#323"    cd /Users/siong1987/Documents/chat    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/siong1987/Documents/chat/build/Debug-iphonesimulator/chat.app0#
+

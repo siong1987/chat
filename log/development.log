@@ -1,0 +1,642 @@
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 03:11:23) [GET]
+Rendering chat/index
+Completed in 88ms (View: 87, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 03:11:29) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"hi", "_"=>""}
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-16 03:12:06) [GET]
+
+ActionController::RoutingError (No route matches "/dashboard/walls/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 03:15:50) [GET]
+Rendering chat/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 03:15:53) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"4J5Z5EQqaQJ2ZC8k0AILbtf9HBJuYoVN40uWObcMFgY=", "chat_input"=>"yo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 03:15:59) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"wassup", "_"=>""}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 03:16:04) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"bored", "_"=>""}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 03:16:22) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"damn", "_"=>""}
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 17:55:41) [GET]
+Rendering chat/index
+Completed in 145ms (View: 143, DB: 0) | 200 OK [http://127.0.0.1/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 17:55:45) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"l19R6qAPtrYfj5jbfsMkqOi6I8U9EDjN9c+yEi5xgbE=", "chat_input"=>"hi", "_"=>""}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 17:56:37) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"l19R6qAPtrYfj5jbfsMkqOi6I8U9EDjN9c+yEi5xgbE=", "chat_input"=>"yo", "_"=>""}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 17:57:44) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"l19R6qAPtrYfj5jbfsMkqOi6I8U9EDjN9c+yEi5xgbE=", "chat_input"=>"haha", "_"=>""}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 18:00:27) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 18:01:02) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"haha", "_"=>""}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 18:02:56) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 18:03:09) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"dada"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 18:15:29) [GET]
+Rendering chat/index
+Completed in 20ms (View: 19, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 18:15:44) [GET]
+Rendering chat/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 18:28:41) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 18:28:51) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"haha"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 19:03:36) [GET]
+Rendering chat/index
+Completed in 107ms (View: 105, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 19:03:41) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"haha", "_"=>""}
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 20:26:32) [GET]
+Rendering chat/index
+Completed in 109ms (View: 107, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 20:26:35) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 20:28:06) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"haha"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 20:28:42) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"ma"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 20:29:16) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"shit"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 20:31:30) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"haha"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 20:31:48) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 20:37:52) [GET]
+Rendering chat/index
+Completed in 74ms (View: 73, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:22:34) [GET]
+Rendering chat/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:22:36) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"befeCLUDBfbFrzF0B2T5aGl+LkyjN140QKccMkl7sdA=", "chat_input"=>"hi", "_"=>""}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:23:28) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:23:33) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"hi"}
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:24:00) [GET]
+Rendering chat/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:24:04) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"hi"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:24:20) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:35:47) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:36:55) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"wah"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:37:17) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:37:22) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-16 21:41:26) [GET]
+
+SyntaxError (/Users/siong1987/Projects/chat/app/controllers/chat_controller.rb:6: syntax error, unexpected ':', expecting kEND
+    render :juggernaut :send_to_channels => ['web'] do |page|
+                        ^
+/Users/siong1987/Projects/chat/app/controllers/chat_controller.rb:6: syntax error, unexpected kDO, expecting kEND
+    render :juggernaut :send_to_channels => ['web'] do |page|
+                                                      ^
+/Users/siong1987/Projects/chat/app/controllers/chat_controller.rb:7: syntax error, unexpected tSYMBEG, expecting kEND
+      page.insert_html :top, 'chat_data', "<li>#{h par...
+                        ^
+/Users/siong1987/Projects/chat/app/controllers/chat_controller.rb:7: syntax error, unexpected ',', expecting kEND
+...insert_html :top, 'chat_data', "<li>#{h params[:chat_input]}...
+                              ^
+/Users/siong1987/Projects/chat/app/controllers/chat_controller.rb:11: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (66.1ms)
+Rendered rescues/_request_and_response (5.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:44:04) [GET]
+Rendering chat/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:44:07) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:45:32) [GET]
+Rendering chat/index
+Completed in 79ms (View: 77, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:45:39) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+
+ArgumentError (wrong number of arguments (2 for 1)):
+  app/controllers/chat_controller.rb:6:in `[]'
+  app/controllers/chat_controller.rb:6:in `send_data'
+
+Rendered rescues/_trace (38.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:46:13) [GET]
+Rendering chat/index
+Completed in 88ms (View: 86, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:46:15) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+
+ArgumentError (wrong number of arguments (2 for 1)):
+  app/controllers/chat_controller.rb:6:in `[]'
+  app/controllers/chat_controller.rb:6:in `send_data'
+
+Rendered rescues/_trace (40.6ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:46:53) [GET]
+Rendering chat/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:46:56) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:47:05) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:47:59) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:51:52) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"meh"}
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:52:19) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"fo"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:52:22) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"shit"}
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:53:19) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"fuck you"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:53:21) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"shit"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:53:24) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"shit"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 21:54:26) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:54:29) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"hey"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:57:00) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 68ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:57:13) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"cool"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:57:20) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"why"}
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:59:49) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 21:59:53) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:00:53) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:01:03) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"why?"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:01:34) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:01:36) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"shit"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:01:41) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"what the fuck?"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:25) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:28) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:45) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:48) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:50) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"shit"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:54) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"damn boring"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:56) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"yo"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:06:59) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"this is cool"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:07:18) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"Y1+6+FcdiXkmQ5ALtFakaMmyi+Irt8GUl8fnXkExVAc=", "chat_input"=>"haha"}
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-16 22:23:59) [GET]
+
+ActionController::RoutingError (No route matches "/caht" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 22:24:04) [GET]
+Rendering chat/index
+Completed in 48ms (View: 47, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:24:07) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"yo"}
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:31:03) [POST]
+  Parameters: {"chat_input"=>"yo"}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+
+Rendered rescues/_trace (106.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:33:27) [POST]
+  Parameters: {"chat_input"=>"yo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:33:41) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"cool"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:33:43) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"haha"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:33:45) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"shit"}
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:33:47) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"damn"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:33:52) [POST]
+  Parameters: {"chat_input"=>"what the hell"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 22:34:53) [GET]
+Rendering chat/index
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:34:58) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"damn"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:35:11) [POST]
+  Parameters: {"chat_input"=>"real time chat between iPhone and web"}
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 22:35:23) [GET]
+Rendering chat/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:39:28) [POST]
+  Parameters: {"chat_input"=>"yo"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:39:33) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"chat"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:39:50) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"real time chat"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:39:55) [POST]
+  Parameters: {"chat_input"=>"gogogo"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 10.40.1.224 at 2009-10-16 22:43:18) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://10.40.1.89/chat]
+
+
+Processing ChatController#send_data (for 10.40.1.224 at 2009-10-16 22:43:20) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"1Qxo3P1qlr1t28hp22nzULm+cNGzjMsNOMu29vZ0AZo=", "chat_input"=>"Hi", "_"=>""}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://10.40.1.89/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:43:29) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"yo"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 10.40.1.224 at 2009-10-16 22:43:32) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"1Qxo3P1qlr1t28hp22nzULm+cNGzjMsNOMu29vZ0AZo=", "chat_input"=>"Does it work in Chrome?", "_"=>""}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://10.40.1.89/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:43:33) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"see this?"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:43:35) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"ya"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 10.40.1.224 at 2009-10-16 22:43:39) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"1Qxo3P1qlr1t28hp22nzULm+cNGzjMsNOMu29vZ0AZo=", "chat_input"=>"I can't see what I'm typing", "_"=>""}
+Completed in 65ms (View: 1, DB: 0) | 200 OK [http://10.40.1.89/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:43:39) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"it is woring"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 10.40.1.224 at 2009-10-16 22:44:07) [GET]
+Rendering chat/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://10.40.1.89/chat]
+
+
+Processing ChatController#send_data (for 10.40.1.224 at 2009-10-16 22:44:09) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"zV6yasQKE1/JA0VTizyRZNb21SBduo7vCT5wMhUHbno=", "chat_input"=>"Hi"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.40.1.89/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:54:06) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"friday night"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:54:08) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"damn"}
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 22:54:14) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"kAGW2qcKm7Wi/Crc7LmqIwEHtFJ8qpFIZwN3gEYKHfY=", "chat_input"=>"what just happens?"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#index (for 127.0.0.1 at 2009-10-16 23:47:12) [GET]
+Rendering chat/index
+Completed in 134ms (View: 133, DB: 0) | 200 OK [http://localhost/chat]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:47:17) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"WOe5D+D+eloru4b5CtnIs38Ni0PjsIFGsP4J2yQuGoQ=", "chat_input"=>"fuck you"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:47:22) [POST]
+  Parameters: {"chat_input"=>"shit"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:47:41) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"WOe5D+D+eloru4b5CtnIs38Ni0PjsIFGsP4J2yQuGoQ=", "chat_input"=>"google shit!"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:47:46) [POST]
+  Parameters: {"chat_input"=>"yo"}
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:47:48) [POST]
+  Parameters: {"chat_input"=>"yoyoyo"}
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:47:51) [POST]
+  Parameters: {"chat_input"=>"o.sytnaoeusntoanstusnatohu"}
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:48:05) [POST]
+  Parameters: {"chat_input"=>"yoyo"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:48:18) [POST]
+  Parameters: {"commit"=>"Add", "authenticity_token"=>"WOe5D+D+eloru4b5CtnIs38Ni0PjsIFGsP4J2yQuGoQ=", "chat_input"=>"fuck you"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]
+
+
+Processing ChatController#send_data (for 127.0.0.1 at 2009-10-16 23:48:22) [POST]
+  Parameters: {"chat_input"=>"shit man"}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/chat/send_data]

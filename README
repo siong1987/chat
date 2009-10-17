@@ -1,0 +1,45 @@
+== Welcome
+
+This is a one day project that I created for fun to test realtime chat ability between iphone and web. This project is created using Ruby on Rails with juggernaut and AsyncSocket(iPhone socket wrapper).
+
+I hacked juggernaut to make it to be able to send one line string in non-json format. The modified juggernaut gem is in "mod-juggernaut" folder while the iphone client is in the 'iphone-client' folder.
+
+== Backend
+
+For this application, there is juggernaut backend server running to channel messages between the iPhone client and the web client. The web client is created using Ruby on Rails.
+
+Posting a message from the iPhone: the iPhone client will send a POST request to the RoR instance. Then, RoR will redirect the message back to the juggernaut backend to dispatch the message to both the iPhone client and the web client.
+
+Posting a message from the Web: the Web client will send a Post request to the RoR instance. Blar blar blar. (Refer back to previous paragraph)
+
+== Scalibility
+
+Do you expect a 4 hours hack to scale? And, forget about premature optimization. No one will use your app.
+
+
+
+
+
+== License
+
+The MIT License
+
+Copyright (c) 2009 Teng Siong Ong
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
